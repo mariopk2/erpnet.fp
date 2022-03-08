@@ -6,7 +6,7 @@
 <script>
 $( "#target" ).click(function() {
 	var obj ={
-  		"uniqueSaleNumber": "<?=$uniqueSaleNumber;?>",
+  		"uniqueSaleNumber": "DT279013-DD01-184923",
   		"items": [
 			{
                 "text": "Product name",
